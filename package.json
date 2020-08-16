@@ -1,0 +1,11 @@
+{
+  "name": "javascript-workshop",
+  "version": "1.0.0",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Trish Tunney",
+  "license": "ISC",
+  "description": ""
+}
