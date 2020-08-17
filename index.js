@@ -36,5 +36,10 @@ function greet(firstName,lastName) {
 greet('John','Smith')
 greet('Tri','Everything')
 
+function square(number){
+    return number * number;
+}
+console.log("call square of 2")
+console.log(square(2));
 
 
